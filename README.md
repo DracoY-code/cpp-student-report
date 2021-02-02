@@ -9,6 +9,7 @@ This is a template README.
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/twitch.svg" />][twitch]
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 
 [github]: https://github.com/DracoY-code/
@@ -17,3 +18,4 @@ This is a template README.
 [twitch]: https://www.twitch.tv/dracoy_08
 [facebook]: https://www.facebook.com/yashvardhan.singh.5686322/
 [instagram]: https://www.instagram.com/evildracoy/
+[twitter]: https://twitter.com/evildracoy
