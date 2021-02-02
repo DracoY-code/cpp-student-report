@@ -1,5 +1,5 @@
-# template
-This is a template README.
+# Student Report Management System (written in C++)
+// TODO
 
 ### Connect with me:
 
